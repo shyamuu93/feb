@@ -125,6 +125,7 @@
             <useReportChart>true</useReportChart>
         </components>
     </middleSection>
+    <owner>shyamgadi1998@gmail.com</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>

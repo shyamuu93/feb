@@ -152,4 +152,12 @@
         <name>DEVHUB_g8wtlnznyhmya6rsxkyt</name>
         <type>ConnectedApp</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>custom_app</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>custom_app_feb</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
